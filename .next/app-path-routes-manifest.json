@@ -1,0 +1,9 @@
+{
+  "/page": "/",
+  "/create-prompt/page": "/create-prompt",
+  "/api/prompt/route": "/api/prompt",
+  "/api/prompt/new/route": "/api/prompt/new",
+  "/api/prompt/[id]/route": "/api/prompt/[id]",
+  "/api/auth/[...nextauth]/route": "/api/auth/[...nextauth]",
+  "/api/users/[id]/posts/route": "/api/users/[id]/posts"
+}
