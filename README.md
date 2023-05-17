@@ -8,7 +8,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 
 
-![](./prompopia.png)
+![](./promptopia.png)
 
 ## 설치 방법
 
